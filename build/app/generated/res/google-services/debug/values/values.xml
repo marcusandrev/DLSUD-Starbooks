@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">112776335670-mk67tkqbhtb8eg3ceslqphp6dqaut7j0.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">112776335670</string>
+    <string name="google_api_key" translatable="false">AIzaSyDd30qaaYcn9rhv7NOPQVSFiZoZ7eEIiYg</string>
+    <string name="google_app_id" translatable="false">1:112776335670:android:8e440ad7245f4134582397</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDd30qaaYcn9rhv7NOPQVSFiZoZ7eEIiYg</string>
+    <string name="google_storage_bucket" translatable="false">aklat-prog.appspot.com</string>
+    <string name="project_id" translatable="false">aklat-prog</string>
+</resources>
