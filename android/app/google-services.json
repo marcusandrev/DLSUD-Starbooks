@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112776335670",
+    "project_id": "aklat-prog",
+    "storage_bucket": "aklat-prog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112776335670:android:8e440ad7245f4134582397",
+        "android_client_info": {
+          "package_name": "bcs12.aklat.prog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112776335670-mk67tkqbhtb8eg3ceslqphp6dqaut7j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd30qaaYcn9rhv7NOPQVSFiZoZ7eEIiYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112776335670-mk67tkqbhtb8eg3ceslqphp6dqaut7j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
